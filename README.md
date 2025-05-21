@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Oskar Michalski</h1>
-<h3 align="center">Passionate about security code implementation</h3>
+<h1 align="center">Hi 👋, I'm Oskar Michalski!</h1>
+<h3 align="center">Passionate about cybersecurity and secure by design implementations.</h3>
 
-- 🔭 I’m currently working on **Master thesis in Secure Element.**
+- 🔭 I’m currently working on **Master Thesis on Pedagogical Approach for Cybersecurity**
 
-- 🌱 I’m currently learning **Assymetric Cryptography, Algorithms, OWASP ZAP & Checkmarx**
+- 🌱 I’m currently learning **LazyVim, and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/M3n0nJ0rn3y?tab=projects](https://github.com/M3n0nJ0rn3y?tab=projects)
 
-- 💬 Ask me about **My secure website project**
+- 💬 Ask me about **My banking website**
 
-- 📫 How to reach me **Osk.Michalski@proon.me**
+- 📫 How to reach me **Osk.Michalski@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
