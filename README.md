@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oskar Michalski!</h1>
 <h3 align="center">Passionate about cybersecurity and secure by design implementations.</h3>
 
-- 🔭 I’m currently working on **Master Thesis on Pedagogical Approach for Cybersecurity**
+- 🎓 I've just finished my Masters Degree in **Cybersecurity-Reliable and Safe Communication** 
+
+- 🔭 I’m currently working on **My Website**
 
 - 🌱 I’m currently learning **LazyVim, and React**
 
